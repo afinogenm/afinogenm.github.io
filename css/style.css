@@ -1,0 +1,38 @@
+body{
+background-color: snow;
+}
+.start{
+ font-family: inherit;
+    height: 100px;
+    }
+.info{
+font-family: cursive;
+font-size: 10px;
+    
+}
+button{
+background-color: skyblue;
+color: beige;
+border: 2px solid skyblue;
+padding: 10px 22px;
+border-radius: 10px;
+font-size: 15px;
+font-family: monospace;
+}
+img{
+height: 120px;
+width: 100px;    
+}
+.example {
+display: flex;
+flex-wrap: nowrap;
+font-size: 20px;
+}
+.final{
+display: flex;
+margin-top: 20px;
+}
+    
+    
+    
+    
